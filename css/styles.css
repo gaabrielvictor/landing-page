@@ -272,7 +272,7 @@ main section{
     .circle{
         display: flex;
         position: absolute;
-        top: 100%;
+        top: 150%;
         right: 30%;
         width: 100%;
         height: 80%;

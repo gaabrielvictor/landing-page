@@ -270,13 +270,7 @@ main section{
     }
     
     .circle{
-        display: flex;
-        position: absolute;
-        top: 150%;
-        right: 30%;
-        width: 100%;
-        height: 80%;
-        clip-path: circle(250px at right 350px);
+        display: none;
     }
     .main-img {
         flex-direction: column;
